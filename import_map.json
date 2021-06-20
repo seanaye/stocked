@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "base64": "https://denopkg.com/chiefbiiko/base64/mod.ts",
+    "puppeteer": "https://deno.land/x/puppeteer/mod.ts"
+  }
+}
